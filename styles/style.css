@@ -237,6 +237,7 @@
 
 .footer {
   margin-top: 180px;
+  padding-bottom: 82px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
